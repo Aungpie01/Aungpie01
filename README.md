@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Aungpie01
+- 🔭 I’m currently student on a computer university
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... python, PHP, JS, AI
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  
+<!---
+Aungpie01/Aungpie01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
